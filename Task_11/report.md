@@ -1,3 +1,10 @@
+# Jenkins
+`sudo apt update && sudo apt install openjdk-11-jre`
+
+`curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo tee /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] https://pkg.jenkins.io/debian-stable binary/ | sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
+sudo apt update && sudo apt install jenkins`
+
 ![1](https://user-images.githubusercontent.com/61537053/175573171-954847e9-ce30-4b5b-ac5b-e35894c9a1e9.png)
 ![2](https://user-images.githubusercontent.com/61537053/175573179-5edf4b15-18c9-482f-9852-8a7cd33c8adc.png)
 ![3](https://user-images.githubusercontent.com/61537053/175573187-7185daa3-bd45-4b01-b64b-68b71c40e016.png)
