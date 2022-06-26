@@ -15,6 +15,9 @@
 
 ![1](https://user-images.githubusercontent.com/61537053/175573330-85a4c324-4aaf-4476-b0ca-43149e925f24.png)
 
+![3](https://user-images.githubusercontent.com/61537053/175817632-e4b3fca2-9bcb-4e0b-8b31-12bb8b9eca8d.png)
+
+
 # Grafana
 `sudo apt update`
 
